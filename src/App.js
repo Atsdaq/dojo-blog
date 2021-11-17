@@ -3,7 +3,7 @@ import './App.css';
 import Navbar from './Navbar';
 import Home  from './Home';
 function App() {
-  const title= 'Welcome to Jamrock!';
+  const title= 'Welcome to Jamp map!';
   return (
     <div className="App">
       <Navbar />
